@@ -1,2 +1,3 @@
 # K-Nearest-Neighbour
-KNN implementation.
+KNN implementation on Python.
+Used Anaconda.
