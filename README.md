@@ -1,3 +1,1 @@
-# K-Nearest-Neighbour
-KNN implementation on Python.
-Used Anaconda.
+# Gaussian Naive Bayes Implementation
